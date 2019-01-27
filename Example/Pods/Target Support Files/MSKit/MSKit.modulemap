@@ -1,0 +1,6 @@
+framework module MSKit {
+  umbrella header "MSKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
